@@ -1,6 +1,6 @@
 <html>
 	<body>
-		Dima_<br>
+		Dima_Petrukha<br>
 		Usual HTML: Dima Petrukha <br>
 		<?php
 echo "Usual echo php: Dima Petrukha \n<br>";
